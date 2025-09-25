@@ -1,0 +1,20 @@
+<students>
+    <student>
+        <id>1</id>
+        <name>Yves</name>
+        <course>BSIT</course>
+        <year>4th</year>
+    </student>
+    <student>
+        <id>2</id>
+        <name>Bob</name>
+        <course>BSCS</course>
+        <year>2nd</year>
+    </student>
+    <student>
+        <id>3</id>
+        <name>Charlie</name>
+        <course>BSECE</course>
+        <year>1st</year>
+    </student>
+</students>

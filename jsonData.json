@@ -1,0 +1,22 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Alice",
+      "course": "BSIT",
+      "year": "3rd"
+    },
+    {
+      "id": 2,
+      "name": "Bob",
+      "course": "BSCS",
+      "year": "2nd"
+    },
+    {
+      "id": 3,
+      "name": "Charlie",
+      "course": "BSECE",
+      "year": "1st"
+    }
+  ]
+}
